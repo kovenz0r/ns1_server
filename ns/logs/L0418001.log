@@ -1,0 +1,129 @@
+L 04/18/2020 - 04:35:50: Log file started (file "logs/L0418001.log") (game "ns") (version "48/1.1.2.2/Stdio/8308")
+L 04/18/2020 - 04:35:50: Loading map "ns_eclipse"
+L 04/18/2020 - 04:35:50: Server cvars start
+L 04/18/2020 - 04:35:50: Server cvar "coop" = "0"
+L 04/18/2020 - 04:35:50: Server cvar "deathmatch" = "1"
+L 04/18/2020 - 04:35:50: Server cvar "decalfrequency" = "30"
+L 04/18/2020 - 04:35:50: Server cvar "edgefriction" = "2"
+L 04/18/2020 - 04:35:50: Server cvar "max_queries_sec" = "3.0"
+L 04/18/2020 - 04:35:50: Server cvar "max_queries_sec_global" = "30"
+L 04/18/2020 - 04:35:50: Server cvar "max_queries_window" = "60"
+L 04/18/2020 - 04:35:50: Server cvar "mp_allowmonsters" = "0"
+L 04/18/2020 - 04:35:50: Server cvar "mp_allowspectators" = "1.0"
+L 04/18/2020 - 04:35:50: Server cvar "mp_autoconcede" = "4"
+L 04/18/2020 - 04:35:50: Server cvar "mp_autocrosshair" = "0"
+L 04/18/2020 - 04:35:50: Server cvar "mp_blockscripts" = "1"
+L 04/18/2020 - 04:35:50: Server cvar "mp_chattime" = "10"
+L 04/18/2020 - 04:35:50: Server cvar "mp_combattime" = "10"
+L 04/18/2020 - 04:35:50: Server cvar "mp_consistency" = "1"
+L 04/18/2020 - 04:35:50: Server cvar "mp_countdowntime" = ".2"
+L 04/18/2020 - 04:35:50: Server cvar "mp_deathmatchmode" = "0"
+L 04/18/2020 - 04:35:50: Server cvar "mp_drawdamage" = "0"
+L 04/18/2020 - 04:35:50: Server cvar "mp_eastereggchance" = "5"
+L 04/18/2020 - 04:35:50: Server cvar "mp_falldamage" = "1"
+L 04/18/2020 - 04:35:50: Server cvar "mp_flashlight" = "0"
+L 04/18/2020 - 04:35:50: Server cvar "mp_footsteps" = "1"
+L 04/18/2020 - 04:35:50: Server cvar "mp_forcerespawn" = "1"
+L 04/18/2020 - 04:35:50: Server cvar "mp_fraglimit" = "0"
+L 04/18/2020 - 04:35:50: Server cvar "mp_fragsleft" = "0"
+L 04/18/2020 - 04:35:50: Server cvar "mp_friendlyfire" = "0"
+L 04/18/2020 - 04:35:50: Server cvar "mp_ironman" = "0"
+L 04/18/2020 - 04:35:50: Server cvar "mp_ironmantime" = "2"
+L 04/18/2020 - 04:35:50: Server cvar "mp_killdelay" = "0"
+L 04/18/2020 - 04:35:50: Server cvar "mp_latejointime" = "1"
+L 04/18/2020 - 04:35:50: Server cvar "mp_logdetail" = "0"
+L 04/18/2020 - 04:35:50: Server cvar "mp_logfile" = "1"
+L 04/18/2020 - 04:35:50: Server cvar "mp_mapvoteratio" = ".6"
+L 04/18/2020 - 04:35:50: Server cvar "mp_minvotesneeded" = "2"
+L 04/18/2020 - 04:35:50: Server cvar "mp_team1damagepercent" = "100"
+L 04/18/2020 - 04:35:50: Server cvar "mp_team2damagepercent" = "100"
+L 04/18/2020 - 04:35:50: Server cvar "mp_team3damagepercent" = "100"
+L 04/18/2020 - 04:35:50: Server cvar "mp_team4damagepercent" = "100"
+L 04/18/2020 - 04:35:50: Server cvar "mp_teamlist" = "marine1;alien2"
+L 04/18/2020 - 04:35:50: Server cvar "mp_teamplay" = "0"
+L 04/18/2020 - 04:35:50: Server cvar "mp_timeleft" = "0"
+L 04/18/2020 - 04:35:50: Server cvar "mp_timelimit" = "60"
+L 04/18/2020 - 04:35:50: Server cvar "mp_tournamentmode" = "0"
+L 04/18/2020 - 04:35:50: Server cvar "mp_uplink" = "0"
+L 04/18/2020 - 04:35:50: Server cvar "mp_votecasttime" = "2"
+L 04/18/2020 - 04:35:50: Server cvar "mp_votedowntime" = "180"
+L 04/18/2020 - 04:35:50: Server cvar "mp_votepercentneeded" = ".3"
+L 04/18/2020 - 04:35:50: Server cvar "mp_weaponstay" = ".5"
+L 04/18/2020 - 04:35:50: Server cvar "pausable" = "0"
+L 04/18/2020 - 04:35:50: Server cvar "sv_accelerate" = "10"
+L 04/18/2020 - 04:35:50: Server cvar "sv_aim" = "0"
+L 04/18/2020 - 04:35:50: Server cvar "sv_airaccelerate" = "10"
+L 04/18/2020 - 04:35:50: Server cvar "sv_allowupload" = "1"
+L 04/18/2020 - 04:35:50: Server cvar "sv_bounce" = "1"
+L 04/18/2020 - 04:35:50: Server cvar "sv_cheats" = "0"
+L 04/18/2020 - 04:35:50: Server cvar "sv_clienttrace" = "3.5"
+L 04/18/2020 - 04:35:50: Server cvar "sv_contact" = ""
+L 04/18/2020 - 04:35:50: Server cvar "sv_friction" = "4"
+L 04/18/2020 - 04:35:50: Server cvar "sv_gravity" = "800"
+L 04/18/2020 - 04:35:50: Server cvar "sv_jumpmode" = "1"
+L 04/18/2020 - 04:35:50: Server cvar "sv_logblocks" = "0"
+L 04/18/2020 - 04:35:50: Server cvar "sv_maxrate" = "25000"
+L 04/18/2020 - 04:35:50: Server cvar "sv_maxspeed" = "4000"
+L 04/18/2020 - 04:35:50: Server cvar "sv_minrate" = "10000"
+L 04/18/2020 - 04:35:50: Server cvar "sv_password" = ""
+L 04/18/2020 - 04:35:50: Server cvar "sv_proxies" = "5"
+L 04/18/2020 - 04:35:50: Server cvar "sv_stepsize" = "18"
+L 04/18/2020 - 04:35:50: Server cvar "sv_stopspeed" = "100"
+L 04/18/2020 - 04:35:50: Server cvar "sv_structurelimit" = "300"
+L 04/18/2020 - 04:35:50: Server cvar "sv_uploadmax" = "0.5"
+L 04/18/2020 - 04:35:50: Server cvar "sv_voiceenable" = "1"
+L 04/18/2020 - 04:35:50: Server cvar "sv_wateraccelerate" = "10"
+L 04/18/2020 - 04:35:50: Server cvar "sv_waterfriction" = "1"
+L 04/18/2020 - 04:35:50: Server cvars end
+L 04/18/2020 - 04:35:51: Game reset started.
+L 04/18/2020 - 04:35:51: Game reset complete.
+L 04/18/2020 - 04:35:51: Map validity check success.
+L 04/18/2020 - 04:35:53: Started map "ns_eclipse" (CRC "-936292463")
+L 04/18/2020 - 04:35:53: Server cvar "mp_blockscripts" = "0"
+L 04/18/2020 - 04:35:53: Server cvar "mp_combattime" = "15"
+L 04/18/2020 - 04:35:53: Server cvar "mp_flashlight" = "1"
+L 04/18/2020 - 04:35:53: Server cvar "mp_friendlyfire" = "1"
+L 04/18/2020 - 04:35:53: Server cvar "mp_killdelay" = "3"
+L 04/18/2020 - 04:35:53: Server cvar "mp_latejointime" = "1.5"
+L 04/18/2020 - 04:35:53: Server cvar "mp_minvotesneeded" = "3"
+L 04/18/2020 - 04:35:53: Server cvar "mp_timelimit" = "0"
+L 04/18/2020 - 04:35:53: Server cvar "mp_tournamentmode" = "1"
+L 04/18/2020 - 04:35:53: Server cvar "mp_uplink" = "1"
+L 04/18/2020 - 04:35:53: Server cvar "mp_votedowntime" = "90"
+L 04/18/2020 - 04:35:53: Server cvar "mp_votepercentneeded" = ".55"
+L 04/18/2020 - 04:35:53: Contacting www.natural-selection.org...
+L 04/18/2020 - 04:36:01: "HLTV Proxy<1><HLTV><>" connected, address "172.20.0.3:27020"
+L 04/18/2020 - 04:36:02: Player with FL_PROXY put in server.
+L 04/18/2020 - 04:37:07: "Koven<2><STEAM_0:1:979368><>" connected, address "58.7.163.77:27005"
+L 04/18/2020 - 04:37:08: "Koven<2><STEAM_0:1:979368><>" STEAM USERID validated
+L 04/18/2020 - 04:37:19: "Koven<2><STEAM_0:1:979368><none>" entered the game
+L 04/18/2020 - 04:37:27: "Koven<2><STEAM_0:1:979368><marine1team>" changed role to "soldier"
+L 04/18/2020 - 04:37:27: "Koven<2><STEAM_0:1:979368><marine1team>" joined team "marine1team"
+L 04/18/2020 - 04:39:45: "AtMoS`<3><STEAM_0:1:668635><>" connected, address "203.96.207.83:27005"
+L 04/18/2020 - 04:39:46: "AtMoS`<3><STEAM_0:1:668635><>" STEAM USERID validated
+L 04/18/2020 - 04:39:51: "AtMoS`<3><STEAM_0:1:668635><none>" entered the game
+L 04/18/2020 - 04:39:53: "AtMoS`<3><STEAM_0:1:668635><alien1team>" changed role to "skulk"
+L 04/18/2020 - 04:39:53: "AtMoS`<3><STEAM_0:1:668635><alien1team>" joined team "alien1team"
+L 04/18/2020 - 04:40:02: Game reset started.
+L 04/18/2020 - 04:40:02: Game reset complete.
+L 04/18/2020 - 04:40:02: Map validity check success.
+L 04/18/2020 - 04:40:02: "Koven<2><STEAM_0:1:979368><marine1team>" changed role to "soldier"
+L 04/18/2020 - 04:40:02: "Koven<2><STEAM_0:1:979368><marine1team>" joined team "marine1team"
+L 04/18/2020 - 04:40:02: "AtMoS`<3><STEAM_0:1:668635><alien1team>" changed role to "skulk"
+L 04/18/2020 - 04:40:02: "AtMoS`<3><STEAM_0:1:668635><alien1team>" joined team "alien1team"
+L 04/18/2020 - 04:43:23: "Koven<2><STEAM_0:1:979368><marine1team>" disconnected
+L 04/18/2020 - 04:43:24: Team 1 has lost.
+L 04/18/2020 - 04:43:24: Team "1" scored "48.00" with "0" players
+L 04/18/2020 - 04:43:24: Team "2" scored "48.00" with "1" players
+L 04/18/2020 - 04:43:24: (map_name "ns_eclipse") (game_version "v3.2.1") (game_time "03:10") (victory_team "alien") (losing_team "marine") (winning_teamsize "1") (losing_teamsize "0")
+L 04/18/2020 - 04:43:42: Game reset started.
+L 04/18/2020 - 04:43:42: Game reset complete.
+L 04/18/2020 - 04:43:42: Map validity check success.
+L 04/18/2020 - 04:58:50: "Koven<4><STEAM_0:1:979368><>" connected, address "58.7.163.77:27005"
+L 04/18/2020 - 04:58:51: "Koven<4><STEAM_0:1:979368><>" STEAM USERID validated
+L 04/18/2020 - 04:58:56: "Koven<4><STEAM_0:1:979368><none>" entered the game
+L 04/18/2020 - 04:59:19: Rcon: "rcon 976972335 "Fireworks69" changelevel ns_veil" from "58.7.163.77:27005"
+L 04/18/2020 - 04:59:19: "HLTV Proxy<1><HLTV><none>" disconnected
+L 04/18/2020 - 04:59:19: "Koven<4><STEAM_0:1:979368><none>" disconnected
+L 04/18/2020 - 04:59:19: "AtMoS`<3><STEAM_0:1:668635><none>" disconnected
+L 04/18/2020 - 04:59:19: Log file closed

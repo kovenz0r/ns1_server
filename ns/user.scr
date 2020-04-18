@@ -1,0 +1,306 @@
+// NOTE:  THIS FILE IS AUTOMATICALLY REGENERATED, 
+//DO NOT EDIT THIS HEADER, YOUR COMMENTS WILL BE LOST IF YOU DO
+// User options script
+//
+// Format:
+//  Version [float]
+//  Options description followed by 
+//  Options defaults
+//
+// Option description syntax:
+//
+//  "cvar" { "Prompt" { type [ type info ] } { default } }
+//
+//  type = 
+//   BOOL   (a yes/no toggle)
+//   STRING
+//   NUMBER
+//   LIST
+//
+// type info:
+// BOOL                 no type info
+// NUMBER       min max range, use -1 -1 for no limits
+// STRING       no type info
+// LIST          delimited list of options value pairs
+//
+//
+// default depends on type
+// BOOL is "0" or "1"
+// NUMBER is "value"
+// STRING is "value"
+// LIST is "index", where index "0" is the first element of the list
+
+
+// Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
+// File generated:  Sun Aug 12 07:21:40 AM
+//
+//
+// Cvar	-	Setting
+
+VERSION 1.0
+
+DESCRIPTION INFO_OPTIONS
+{
+	"cl_autohelp"
+	{
+		"Show hints"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"hud_style"
+	{
+		"HUD style (requires map reload)"
+		{
+			LIST
+			"Original" "0"
+			"Minimal" "1"
+			"Competitive - Nine Legends" "2"
+		}
+		{ "1.000000" }
+	}
+
+	"hud_mapstyle"
+	{
+		"Map style"
+		{
+			LIST
+			"Opaque Unlabeled" "0"
+			"Opaque Labeled" "1"
+			"Semi-transparent Unlabeled" "2"
+			"Semi-transparent Labeled" "3"
+			"Transparent Unlabeled" "4"
+			"Transparent Labeled" "5"
+		}
+		{ "3.000000" }
+	}
+
+	"cl_hudmapzoom"
+	{
+		"Marine minimap zoom level"
+		{
+			LIST
+			"No map" "0"
+			"No Zoom (X1)" "1"
+			"Medium Zoom (2X)" "2"
+			"Full Zoom (3X) " "3"
+		}
+		{ "3.000000" }
+	}
+
+	"cl_cross"
+	{
+		"New crosshair system"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"cl_cross_color"
+	{
+		"Crosshair color (R G B)"
+		{ STRING }
+		{ "255 255 255" }
+	}
+
+	"cl_cross_alpha"
+	{
+		"Crosshair transparency (0-255)"
+		{ NUMBER 0.000000 255.000000 }
+		{ "255.000000" }
+	}
+
+	"cl_cross_size"
+	{
+		"Crosshair length"
+		{ NUMBER -1.000000 -1.000000 }
+		{ "6.000000" }
+	}
+
+	"cl_cross_gap"
+	{
+		"Crosshair gap"
+		{ NUMBER -1.000000 -1.000000 }
+		{ "3.000000" }
+	}
+
+	"cl_cross_thickness"
+	{
+		"Crosshair thickness"
+		{ NUMBER -1.000000 -1.000000 }
+		{ "2.000000" }
+	}
+
+	"cl_cross_outline"
+	{
+		"Crosshair outline thickness"
+		{ NUMBER -1.000000 -1.000000 }
+		{ "2.000000" }
+	}
+
+	"cl_cross_outline_alpha"
+	{
+		"Crosshair outline transparency (0-255)"
+		{ NUMBER 0.000000 255.000000 }
+		{ "255.000000" }
+	}
+
+	"cl_cross_outline_inner"
+	{
+		"Outline inside of cross"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"cl_cross_dot_size"
+	{
+		"Crosshair dot size"
+		{ NUMBER -1.000000 -1.000000 }
+		{ "0.000000" }
+	}
+
+	"cl_cross_dot_outline"
+	{
+		"Crosshair dot outline thickness"
+		{ NUMBER -1.000000 -1.000000 }
+		{ "0.000000" }
+	}
+
+	"cl_cross_circle_radius"
+	{
+		"Crosshair circle size"
+		{ NUMBER 0.000000 255.000000 }
+		{ "0.000000" }
+	}
+
+	"crosshair"
+	{
+		"Legacy crosshair system"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"cl_customcrosshair"
+	{
+		"Legacy crosshair selection"
+		{
+			LIST
+			"Classic Crosshairs" "0"
+			"Custom 1" "1"
+			"Custom 2" "2"
+			"Custom 3" "3"
+			"Custom 4" "4"
+		}
+		{ "0.000000" }
+	}
+
+	"cl_ambientsound"
+	{
+		"Ambient sound (requies map reload)"
+		{
+			LIST
+			"None" "0"
+			"All - Original" "1"
+			"Selective" "2"
+		}
+		{ "2.000000" }
+	}
+
+	"senslock"
+	{
+		"Don't scale sensitivity with FOV (Skulk/Gorge)"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"zoom_sensitivity_ratio"
+	{
+		"Zoom sensitivity ratio (skulk/gorge)"
+		{ NUMBER 0.000000 5.000000 }
+		{ "1.000000" }
+	}
+
+	"cl_cmhotkeys"
+	{
+		"Commander hotkeys"
+		{ STRING }
+		{ "qwerasdfzxcv" }
+	}
+
+	"cl_centerentityid"
+	{
+		"Center player names"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"cl_highdetail"
+	{
+		"High detail particle systems"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"cl_buildmessages"
+	{
+		"Show team build messages"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"cl_labelhivesight"
+	{
+		"Show alien hivesight text"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"cl_dynamiclights"
+	{
+		"Dynamic lights"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"hud_fastswitch"
+	{
+		"Weapon fast-switch"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"cl_musicenabled"
+	{
+		"Music enabled"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"cl_musicvolume"
+	{
+		"Music volume (0-255)"
+		{ NUMBER 0.000000 255.000000 }
+		{ "100.000000" }
+	}
+
+	"cl_musicdirectory"
+	{
+		"Custom music directory"
+		{ STRING }
+		{ "" }
+	}
+
+	"cl_musicdelay"
+	{
+		"Random seconds between songs"
+		{ NUMBER 0.000000 10000.000000 }
+		{ "90.000000" }
+	}
+
+	"r_decals"
+	{
+		"Decal limit"
+		{ NUMBER 0.000000 4096.000000 }
+		{ "4096.000000" }
+	}
+
+}

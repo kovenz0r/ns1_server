@@ -1,0 +1,9 @@
+L 04/18/2020 - 04:35:50: Log file started (file "logs/L0418000.log") (game "ns") (version "48/1.1.2.2/Stdio/8308")
+L 04/18/2020 - 04:35:50: Server cvar "pausable" = "0"
+L 04/18/2020 - 04:35:50: Server cvar "sv_aim" = "0"
+L 04/18/2020 - 04:35:50: Server cvar "sv_clienttrace" = "3.5"
+L 04/18/2020 - 04:35:50: Server cvar "sv_maxrate" = "25000"
+L 04/18/2020 - 04:35:50: Server cvar "sv_maxspeed" = "4000"
+L 04/18/2020 - 04:35:50: Server cvar "sv_minrate" = "10000"
+L 04/18/2020 - 04:35:50: Server cvar "sv_proxies" = "5"
+L 04/18/2020 - 04:35:50: Log file closed
